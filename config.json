@@ -1,0 +1,12 @@
+{
+    "model_path": "models/haarcascade_frontalface_default.xml",
+    "database": {
+        "host": "localhost",
+        "user": "your_username",
+        "password": "your_password",
+        "name": "face_auth_db"
+    },
+    "face_recognition": {
+        "similarity_threshold": 80.0
+    }
+} 
