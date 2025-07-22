@@ -32,7 +32,7 @@ sudo yum install cmake opencv-devel opencv-contrib-devel mysql-devel jsoncpp-dev
 2. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/face_auth_cpp.git
+git clone https://github.com/wyh1359498723/FaceAuthServer.git
 cd face_auth_cpp
 ```
 
